@@ -1,0 +1,8 @@
+/node_modules
+/public/storage
+/vendor
+/.idea
+laravel-front-sample.iml
+Homestead.json
+Homestead.yaml
+
